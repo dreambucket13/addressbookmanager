@@ -1,0 +1,2 @@
+{"entries":[{"firstName":"a","lastName":"a","address":"a","city":"a","state":"a","zip":"a","phoneNumber":"a","isValid":true}],"size":1,"bookName":"meow"}
+{"entries":[],"size":0,"bookName":"meow2"}
